@@ -1,0 +1,8 @@
+{
+  "instrument_key_nifty": "NSE_INDEX|Nifty 50",
+  "instrument_key_vix": "NSE_INDEX|India VIX",
+  "start_date": "2017-01-01",
+  "end_date": "2026-01-30",
+  "start_day": "Wednesday",
+  "expiry_day": "Tuesday"
+}
